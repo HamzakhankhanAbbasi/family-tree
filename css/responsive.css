@@ -1,0 +1,160 @@
+@media only screen and (max-width:1920px) {}
+@media only screen and (max-width:1660px) {
+	.Dont-account-section {
+		margin-top: 20px;
+	}
+	.signup-wrap .login-button {
+		margin: 15px 0px 0px 0;
+	}
+	.signup-wrap .login-input {
+		margin: 5px 0 0 0;
+	}
+	.signup-wrap .account-text {
+		margin-top: 0px;
+	}
+	.signup-wrap .text-head {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.signup-wrap .text-head {
+		font-size: 18px;
+	}
+	.signup-wrap .account-text {
+		font-size: 14px;
+	}
+
+}
+@media only screen and (max-width:1540px) {
+	.Dont-account-section {
+		margin-top: 20px;
+	}
+	.signup-wrap .login-button {
+		margin: 15px 0px 0px 0;
+	}
+	.signup-wrap .login-input {
+		margin: 5px 0 0 0;
+	}
+	.signup-wrap .account-text {
+		margin-top: 0px;
+	}
+	.text-head {
+		font-size: 25px;
+		line-height: 30px;
+	}
+}
+
+@media only screen and (max-width:1440px) {
+	
+}
+@media only screen and (max-width:1280px){
+	.text-head {
+		font-size: 25px;
+	}
+	.form-section-input {
+		min-width: 440px;
+		max-width: 440px;
+	}
+	.login-btn {
+		padding: 20px 195px;
+	}
+	.log-wrap:before {
+		width: 145px;
+	}
+	.log-wrap:after {
+		width: 145px;
+	}
+}
+@media only screen and (max-width:1200px) {
+	
+}
+@media only screen and (max-width:1196px) {
+
+}
+@media only screen and (max-width:1090px) {
+
+}
+@media only screen and (max-width:1025px) {
+	
+}
+@media only screen and (max-width:1024px) {
+   
+}
+@media only screen and (max-width:991px) {
+	.login-image {
+		min-height: 400px;
+		max-height: 400px;
+		height:100%;
+	}
+	.family-logo img {
+		max-width: 300px;
+		max-height: 260px;
+	}
+
+}
+@media only screen and (max-width:910px) {
+	
+}
+@media only screen and (max-width:767px) {
+	.signup-wrap .login-cyber-frm {
+		justify-content: flex-start;
+	}
+	.signup-wrap .text-head {
+		font-size: 18px;
+		padding: 20px 0;
+	}
+}
+@media only screen and (max-width:575px) {
+	.text-head {
+		font-size: 20px;
+	}
+	.family-logo img {
+		max-width: 300px;
+		max-height: 290px;
+	}
+    .form-section-input {
+		min-width: 330px;
+		max-width: 330px;
+	}
+	.login-btn {
+		padding: 20px 145px;
+	}
+	.log-wrap:before {
+		width: 90px;
+	}
+	.log-wrap:after {
+		width: 90px;
+	}
+}
+@media only screen and (max-width:425px) {
+
+}
+@media only screen and (max-width:385px) {
+	.text-head {
+		font-size: 18px;
+	}
+	.login-btn {
+		padding: 15px 105px;
+	}
+	.form-section-input {
+		min-width: 260px;
+		max-width: 260px;
+	}
+	.family-logo img {
+		max-width: 250px;
+		max-height: 270px;
+	}
+	.text-head {
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.log-wrap:before {
+		width: 50px;
+	}
+	.log-wrap:after {
+		width: 50px;
+	}
+
+}
+@media only screen and (max-width:358px) {
+
+}

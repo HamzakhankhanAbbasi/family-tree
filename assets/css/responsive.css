@@ -1,0 +1,240 @@
+@media only screen and (max-width:1920px) {
+    .login-btn {
+        padding: 20px 265px;
+    }
+    .login-wrap .login-image {
+        background-size: 100% 100%;
+        background-position: center;
+    }
+}
+@media only screen and (max-width:1660px) {
+	.Dont-account-section {
+		margin-top: 20px;
+	}
+	.signup-wrap .login-button {
+		margin: 20px 0px 0px 0;
+	}
+    .login-image {
+        height: 100%;
+    }  
+
+}
+@media only screen and (max-width:1540px) {
+	.Dont-account-section {
+		margin-top: 20px;
+	}
+	.signup-wrap .login-button {
+		margin: 15px 0px 0px 0;
+	}
+	.signup-wrap .login-input {
+		margin: 5px 0 0 0;
+	}
+	.signup-wrap .account-text {
+		margin-top: 0px;
+	}
+	.text-head {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.signup-wrap .account-text {
+		margin-top: 0px;
+	}
+	.signup-wrap .text-head {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.signup-wrap .login-input {
+		margin: 5px 0 0 0;
+	}
+}
+
+@media only screen and (max-width:1440px) {
+    .signup-wrap .text-head {
+        font-size: 25px;
+        line-height: 25px;
+    }
+	.login-image {
+        background-position: 50% 50%;
+    }
+    .dont-text {
+        padding: 10px 0;
+    }
+}
+
+@media only screen and (max-width:1280px){
+    .login-wrap .login-image {
+        background-position: top;
+    }
+    .signup-wrap .login-image {
+        background-position: center;
+        background-size: 100% 100%;
+    }
+    .log-wrap {
+        max-width: 392px;
+    }
+	.text-head {
+		font-size: 25px;
+	}
+	.form-section-input {
+		min-width: 440px;
+		max-width: 440px;
+	}
+	.login-btn {
+        padding: 20px 190px;
+    }
+	.log-wrap:before {
+		width: 125px;
+	}
+	.log-wrap:after {
+        width: 125px;
+    }
+	.signup-wrap .text-head {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .family-logo img {
+        max-width: 275px;
+        margin: 5px 0;
+    }
+    .signup-wrap .account-text {
+
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width:1200px) {
+    .login-btn {
+        padding: 20px 190px;
+    }
+    .login-wrap .login-image {
+        background-position: top;
+        background-size: 100% 100%;
+    }
+}
+@media only screen and (max-width:1196px) {
+
+}
+@media only screen and (max-width:1090px) {
+
+}
+@media only screen and (max-width:1025px) {
+	
+}
+@media only screen and (max-width:1024px) {
+    .signup-wrap .text-head {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .login-image {
+        background-position: center center;
+    }
+   
+}
+@media only screen and (max-width:991px) {
+	.family-logo img {
+		max-width: 300px;
+		max-height: 260px;
+	}
+	.login-wrap .login-image {
+        background-position: center;
+        background-size:cover;
+    }
+    .signup-wrap .login-image {
+        background-position: center;
+        background-size:cover;
+       
+    }
+
+}
+@media only screen and (max-width:910px) {
+	
+}
+@media only screen and (max-width:767px) {
+    .log-wrap {
+        max-width: 400px;
+    }
+    .login-btn {
+        padding: 20px 190px;
+    }
+	.signup-wrap .login-cyber-frm {
+		justify-content: flex-start;
+	}
+	.signup-wrap .text-head {
+        font-size: 18px;
+        padding: 10px 0;
+    }
+}
+@media only screen and (max-width:575px) {
+    .modal-btn .login-btn {
+        padding: 10px 145px;
+    }
+    .log-wrap {
+        max-width: 305px;
+    }
+    .forget-pass p {
+        font-size: 14px;
+    }
+	.text-head {
+		font-size: 20px;
+	}
+	.family-logo img {
+		max-width: 300px;
+		max-height: 290px;
+	}
+    .form-section-input {
+		min-width: 330px;
+		max-width: 330px;
+	}
+	.login-btn {
+        padding: 20px 134px;
+    }
+	.log-wrap:before {
+		width: 90px;
+	}
+	.log-wrap:after {
+		width: 90px;
+	}
+}
+@media only screen and (max-width:425px) {
+
+}
+@media only screen and (max-width:385px) {
+    .modal-btn .login-btn {
+        padding: 10px 110px;
+    }
+    .log-wrap {
+        max-width: 235px;
+    }
+	.text-head {
+		font-size: 18px;
+	}
+	.login-btn {
+		padding: 15px 100px;
+	}
+	.form-section-input {
+		min-width: 260px;
+		max-width: 260px;
+	}
+	.family-logo img {
+		max-width: 250px;
+		max-height: 270px;
+	}
+	.text-head {
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.log-wrap:before {
+		width: 50px;
+	}
+	.log-wrap:after {
+		width: 50px;
+	}
+	.signup-wrap .account-text {
+		font-size: 14px;
+	}
+	.signup-wrap .text-head {
+		font-size: 16px;
+	}
+}
+@media only screen and (max-width:358px) {
+
+}
